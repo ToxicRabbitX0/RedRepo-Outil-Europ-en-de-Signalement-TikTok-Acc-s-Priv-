@@ -136,8 +136,6 @@ Vous êtes une agence ou une entreprise ?
 
 ---
 
-## 📈 Aidez-nous à monter dans Google
-
 ⭐️ Donnez une étoile au projet
 🔗 Partagez ce dépôt GitHub
 🗣 Parlez-en dans vos communautés cybersécurité / modération EU
